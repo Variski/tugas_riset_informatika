@@ -1,7 +1,8 @@
-# Riset Kecil: Ketahanan Detektor Deepfake Audio Berbahasa Indonesia terhadap Kompresi Codec Aplikasi Pesan
+Ketahanan Detektor Deepfake Audio Berbahasa Indonesia terhadap Kompresi Codec Aplikasi Pesan
 
 **Mata Kuliah:** Riset Informatika
-**Nama:** Muchammad Basroil Billah
+**Nama:** Deva Helal Eka Variski
+**Npm:** 23081010313
 **Bidang:** Audio Deepfake Detection (ADD) / Speech Anti-Spoofing
 
 ---
